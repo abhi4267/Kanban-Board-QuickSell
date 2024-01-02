@@ -14,3 +14,7 @@ When a user clicks the "display" button and selects a grouping option, the Kanba
 * CSS
 * Javascript
 * React JS
+## Author
+* LinkedIn: [@Abhishek Singh](https://www.linkedin.com/in/abhishek-singh-b46994202/)
+* Email: [@abhishek](mailto:abhisheksingh90627@gmail.com)
+* Github: [@abhishek](https://github.com/abhi4267)
